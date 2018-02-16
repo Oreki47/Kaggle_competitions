@@ -1,5 +1,5 @@
 #
 *.pyc
-*.ipynb
 /**/Winner Solutions/
 *.csv
+/**/.ipynb_checkpoints/
