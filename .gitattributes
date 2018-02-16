@@ -1,1 +1,2 @@
+* linguist-vendored=False
 *.ipynb linguist-vendored=True
