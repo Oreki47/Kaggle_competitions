@@ -1,5 +1,7 @@
 # 03 Zillow
 
+Around 10/2018.
+
 Published for EC2 connection.
 I have drained my current PC with roughly 100k enetries with 130+ features and I am counting on EC2 to be a good alternative.
 Currently I'm still at the stage of figuring things out.
